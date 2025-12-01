@@ -8,6 +8,6 @@ Learning software engineering, building projects, and solving problems one commi
 - 💬 Ask me about: projects, code challenges, and collaborative learning
 - 📫 Find me: https://github.com/MAN3RAF
 
-[![lsebar's 42 stats](https://badge.mediaplus.ma/blue/lsebar)](https://github.com/oakoudad/badge42)
+[![lsebar's 42 stats](https://badge.mediaplus.ma/darkblue/lsebar)](https://github.com/oakoudad/badge42)
 
 Thanks for stopping by!
