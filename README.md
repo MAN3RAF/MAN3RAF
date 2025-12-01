@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**MAN3RAF/MAN3RAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome — I'm Sebar_Lahcen aka MAN3RF, a student at 1337 programming school.
+Learning software engineering, building projects, and solving problems one commit at a time.
 
-Here are some ideas to get you started:
+- 🔭 Currently: studying at 1337 programming school
+- 🌱 Learning: algorithms, systems programming, and web development
+- 💬 Ask me about: projects, code challenges, and collaborative learning
+- 📫 Find me: https://github.com/MAN3RAF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![lsebar's 42 stats](https://badge.mediaplus.ma/black/lsebar)](https://github.com/oakoudad/badge42)
+
+Thanks for stopping by!
