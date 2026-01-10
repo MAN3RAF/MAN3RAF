@@ -122,7 +122,7 @@ graph LR
 </div>
 
 - 🔭 **Currently:** Deep diving into systems programming and algorithmic problem solving
-- 🌱 **Learning:** Advanced C/C++, data structures, and modern web technologies
+- 🌱 **Learning:** Advanced C/C++ and Python, data structures, and modern web technologies
 - 💡 **Projects:** Building real-world applications to solidify concepts
 - 🎯 **Goals:** Master software engineering fundamentals and contribute to open source
 - 💬 **Ask me about:** C programming, algorithms, code challenges, and collaborative learning
