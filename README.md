@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Profile!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sebar_Lahcen+(MAN3RF);Student+at+1337+Programming+School;Software+Engineering+Enthusiast; Building+Projects+One+Commit+at+a+Time;Problem+Solver+%7C+Code+Craftsman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sebar_Lahcen+(MAN3RF);Student+at+1337+Programming+School;Software+Engineering+Enthusiast;Building+Projects+One+Commit+at+a+Time;Problem+Solver+%7C+Code+Craftsman)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MAN3RAF&color=00D9FF&style=flat-square&label=Profile+Views)
 
