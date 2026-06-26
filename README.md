@@ -14,7 +14,7 @@
 
 ```typescript
 const MAN3RAF = {
-    name: "Sebar Lahcen (MAN3RF)",
+    name: "Sebar Lahcen aka (MAN3RF)",
     location: "Morocco 🇲🇦",
     education: "1337 Programming School",
     
